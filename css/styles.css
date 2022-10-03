@@ -12,7 +12,20 @@ p{
 @media screen and (max-width: 700px) {
     p {
         font-size: 12px;
-        
+        max-width: 650px;
+        text-align: center;
     }
+
+    img{
+     width: 650px; 
+    }
+}
+
+@media screen and (min-width: 1024px){
+
+  p{
+    width: 1000px;
+    text-align: center;
+  }
 
 }

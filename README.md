@@ -4,4 +4,3 @@ Your name: Dilankumar Patel
 Your phone model: Iphone 11
 Resolution: 828 pixels width
             1791 pixels height
-

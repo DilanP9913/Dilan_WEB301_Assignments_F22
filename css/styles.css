@@ -3,6 +3,7 @@ html, body{
     width: 85%;
     margin: auto;
     padding: auto;
+    background-color: rgb(87, 85, 85);
 }
 .topnav {
     overflow: hidden;
